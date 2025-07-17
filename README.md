@@ -4,7 +4,7 @@ For practices only
 #  Magento Manual Testing Project
 
 This repository contains manual testing documentation for the demo e-commerce website:  
-🔗 [https://magento.softwaretestingboard.com](https://magento.softwaretestingboard.com)
+ [https://magento.softwaretestingboard.com](https://magento.softwaretestingboard.com)
 
 Created by: **Nutchaphon Khamkhiao**  
 Role: Junior QA (Manual Tester)  
@@ -24,7 +24,7 @@ To demonstrate practical skills in planning and executing manual test cases agai
 
 ---
 
-## 📄 Included Documents
+##  Included Documents
 
 | Folder | File | Description |
 |--------|------|-------------|
