@@ -1,18 +1,18 @@
 # magento-manual-test-project
 For practices only
 
-# 🧪 Magento Manual Testing Project
+#  Magento Manual Testing Project
 
 This repository contains manual testing documentation for the demo e-commerce website:  
 🔗 [https://magento.softwaretestingboard.com](https://magento.softwaretestingboard.com)
 
 Created by: **Nutchaphon Khamkhiao**  
 Role: Junior QA (Manual Tester)  
-Status: In Progress ✅
+Status: In Progress
 
 ---
 
-## 📌 Objective
+##  Objective
 
 To demonstrate practical skills in planning and executing manual test cases against key features of an e-commerce platform such as:
 
@@ -35,7 +35,7 @@ To demonstrate practical skills in planning and executing manual test cases agai
 
 ---
 
-## 🔧 Tools & Techniques Used
+##  Tools & Techniques Used
 
 - Manual Testing (Functional, UI, Boundary Value Analysis, Usability)
 - Excel (for writing Test Case matrix)
@@ -46,7 +46,7 @@ To demonstrate practical skills in planning and executing manual test cases agai
 
 ---
 
-## 🚧 Work in Progress
+##  Work in Progress
 
 This repository will be continuously updated as part of my QA learning journey.  
 Feel free to clone, fork, or share feedback.  
