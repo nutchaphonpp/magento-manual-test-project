@@ -56,7 +56,7 @@
 
 ## 🧱 6. Test Environment
 
-* OS: Windows 10 / macOS Sonoma
+* OS: Windows 11 23H2
 * Browsers:
 
   * Google Chrome v125+
