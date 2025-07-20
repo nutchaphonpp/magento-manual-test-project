@@ -28,7 +28,7 @@ To demonstrate practical skills in planning and executing manual test cases agai
 
 | Folder | File | Description |
 |--------|------|-------------|
-| `/test-plan/` | [/test-plan/Test plan Magento web testing project.md](./Test_plan_Magento_web_testing_project.md) | Full test plan including scope, approach, and timeline |
+| `/test-plan/` | [/test-plan/Test plan Magento web testing project.md](./test-plan/Test_plan_Magento_web_testing_project.md) | Full test plan including scope, approach, and timeline |
 | `/test-cases/` | `Test_case_Magento_web_testing_project.xlsx` | Test case Excel file with IDs, steps, and expected results |
 | `/bug-reports/` | *(coming soon)* | Screenshots and summaries of bugs found during testing |
 | `/test-summary/` | *(coming soon)* | Final test summary report (pass/fail rate, blockers) |
